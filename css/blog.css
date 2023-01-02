@@ -1,0 +1,40 @@
+h3{
+    color: magenta;
+    text-decoration:underline wavy green;
+
+}
+p{
+    color: blueviolet;
+}
+.page-title{
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+
+}
+ol li{
+   display: inline;
+}
+.header{
+    height: 50vh;
+    background-color: ;
+    /* background-image: url('dumbell/dumbell.jpg'); */
+    background-image: url('../dumbell/dumbell.jpg');   
+    background-color: gray;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-blend-mode: multiply;
+    /* background-position: bottom right; */
+}
+span{
+    display: inline-block;
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    display: none;
+}
+.blog{
+    background-color: peru;
+    box-shadow: 10px 10px 10px gray;
+    height: 100vh;
+}
